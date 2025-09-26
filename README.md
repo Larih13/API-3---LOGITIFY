@@ -8,14 +8,14 @@
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Tecnologias Utilizadas](##Tecnologias-Utilizadas)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Sprints](#Sprints)
 * [Cronograma](##Cronograma)
 * [Backlog do produto](#Backlog-do-produto)
-* [Sprint 1](##Sprint-1)
-* [Sprint 2](##Sprint-2)
-* [Sprint 3](##Sprint-3)
-* [Feira de soluções](##Feira-de-soluções)
+* [Sprint 1](#Sprint-1)
+* [Sprint 2](#Sprint-2)
+* [Sprint 3](#Sprint-3)
+* [Feira de soluções](#Feira-de-soluções)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 # Projeto (API) 
@@ -32,7 +32,7 @@
 
 # Objetivo do Projeto
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 # Sprints
 
@@ -48,13 +48,13 @@ Sprint | Previsão | Status| Histórico|
 
 # Backlog do produto
 
-## Sprint 1
+# Sprint 1
 
-## Sprint 2 
+# Sprint 2 
 
-## Sprint 3  
+# Sprint 3  
 
-## Feira de soluções
+# Feira de soluções
 
 # Competências desenvolvidas
 
