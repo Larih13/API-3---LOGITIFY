@@ -8,10 +8,14 @@
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
+* [Tecnologias Utilizadas](##Tecnologias-Utilizadas)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
+* [Cronograma](##Cronograma)
 * [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Sprint 1](##Sprint-1)
+* [Sprint 2](##Sprint-2)
+* [Sprint 3](##Sprint-3)
+* [Feira de soluções](##Feira-de-soluções)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 # Projeto (API) 
@@ -44,11 +48,11 @@ Sprint | Previsão | Status| Histórico|
 
 # Backlog do produto
 
-## Sprint 1. Concepção
+## Sprint 1
 
-## Sprint 2. Desenvolvimento do Projeto
+## Sprint 2 
 
-## Sprint 3 . Implementação
+## Sprint 3  
 
 ## Feira de soluções
 
