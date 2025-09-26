@@ -39,3 +39,47 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 02|  24/10/2025| a fazer |[Ver Relatório](https://www.canva.com/design/DAG0Cl4QdUE/DyUmjvypC6DI_T42OQEY9Q/edit?utm_content=DAG0Cl4QdUE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |Sprint 03| 17/11/2025 | a fazer|[Ver Relatório](https://www.canva.com/design/DAG0CqfUwQI/SsJcoTt5QNtr33tHZ1Iyxw/edit?utm_content=DAG0CqfUwQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |Feira de Soluções| 04/12/2025 | a fazer || 
+
+## Cronograma
+
+# Backlog do produto
+
+## Sprint 1. Concepção
+
+## Sprint 2. Desenvolvimento do Projeto
+
+## Sprint 3 . Implementação
+
+## Feira de soluções
+
+# Competências desenvolvidas
+
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master | ☆ ☆ ☆ ☆ ☆ |
+| Prodct Owner | ☆ ☆ ☆ ☆ ☆ |
+| Markdown | ☆ ☆ ☆ ☆ ☆ |
+| Git Projects | ☆ ☆ ☆ ☆ ☆ |
+ 
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ |
+
+</details>
