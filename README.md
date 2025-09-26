@@ -88,4 +88,4 @@ Sprint | Previsão | Status| Histórico|
 
 </details>
 
-* [Volte ao topo](#GRUPO-LOGISTIFY---API---3º-SEMESTRE)
+* *[Volte ao topo]*(#GRUPO-LOGISTIFY---API---3º-SEMESTRE)
