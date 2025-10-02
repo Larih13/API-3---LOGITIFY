@@ -37,7 +37,8 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 ## 🚀 Ferramentas & Tecnologias
 
-![Power BI](assets/powerbi.png | width=40) 
+![Power BI](![power_bi_premium_per_user_261249398_1_beedecd31c08fe79423bcf67b3039521](https://github.com/user-attachments/assets/8ad24d99-fb75-41fc-ba13-552fa82c0473)
+ | width=40) 
 ![Jira](assets/jira.png | width=40) 
 ![GitHub](assets/github.png | width=40) 
 ![Python](assets/python.png | width=40) 
