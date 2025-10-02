@@ -55,7 +55,6 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 12/09/2025 | concluido| | 
 |Sprint 01| 03/10/2025 | em progresso| [Ver Relatório](https://www.canva.com/design/DAG0CTb4Z2o/fRSZLn9WMa5JNHOOm-CzrA/edit?utm_content=DAG0CTb4Z2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |Sprint 02|  24/10/2025| a fazer |[Ver Relatório](https://www.canva.com/design/DAG0Cl4QdUE/DyUmjvypC6DI_T42OQEY9Q/edit?utm_content=DAG0Cl4QdUE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |Sprint 03| 17/11/2025 | a fazer|[Ver Relatório](https://www.canva.com/design/DAG0CqfUwQI/SsJcoTt5QNtr33tHZ1Iyxw/edit?utm_content=DAG0CqfUwQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
