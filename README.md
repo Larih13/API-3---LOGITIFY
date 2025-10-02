@@ -37,27 +37,15 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 ## 🚀 Ferramentas & Tecnologias
 
-<p align="left">
-  <a href="assets/powerbi.png" target="_blank" rel="noreferrer">
-    <img src="assets/powerbi.png" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="assets/jira.png" target="_blank" rel="noreferrer">
-    <img src="assets/jira.png" alt="Jira" width="40" height="40"/>
-  </a>
-  <a href="assets/github.png" target="_blank" rel="noreferrer">
-    <img src="assets/github.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="assets/python.png" target="_blank" rel="noreferrer">
-    <img src="assets/python.png" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="assets/canva.png" target="_blank" rel="noreferrer">
-    <img src="assets/canva.png" alt="Canva" width="40" height="40"/>
-  </a>
-</p>
+![Power BI](assets/powerbi.png | width=40) 
+![Jira](assets/jira.png | width=40) 
+![GitHub](assets/github.png | width=40) 
+![Python](assets/python.png | width=40) 
+![Canva](assets/canva.png | width=40)
 
 ---
 
-<img alt="Linha RGB" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
