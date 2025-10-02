@@ -29,6 +29,8 @@
 |  Team Member  | Gabriel                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-3b5aba1ba) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-3b5aba1ba)   |
 |  Team Member  | Paulo      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-b21680306) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Paulo0805)          |
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 # Objetivo do Projeto
 
 Desenvolver um dashboard interativo em Power BI para análise integrada da segurança viária no Brasil, utilizando bases oficiais como PRF, RENAINF e DATASUS. O projeto visa consolidar informações sobre frota, população, sinistros e mortalidade, permitindo visualizações dinâmicas, rankings de municípios e indicadores de risco. O objetivo é apoiar a tomada de decisões em políticas públicas e contribuir para a conscientização e prevenção de acidentes de trânsito.
