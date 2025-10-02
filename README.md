@@ -36,15 +36,24 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 # Tecnologias Utilizadas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="![power_bi_premium_per_user_261249398_1_beedecd31c08fe79423bcf67b3039521](https://github.com/user-attachments/assets/da3a029b-ca75-43f8-8bfe-8bc6ea7ae2a3)" target="_blank" rel="noreferrer"> <img                                                                                                           src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="Vscode" width="40" height="40"/> </a>
-  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" alt="Vscode studio 2022" width="40" height="40"/> </a>
-  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="Github" width="40" height="40"/> </a>
-  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="./mnt/data/power_bi_premium_per_user_261249398_1_beedecd31c08fe79423bcf67b3039521.webp" target="_blank" rel="noreferrer">
+    <img src="./mnt/data/power_bi_premium_per_user_261249398_1_beedecd31c08fe79423bcf67b3039521.webp" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="./mnt/data/plt-jira-01-hero-01.png.webp" target="_blank" rel="noreferrer">
+    <img src="./mnt/data/plt-jira-01-hero-01.png.webp" alt="Jira" width="40" height="40"/>
+  </a>
+  <a href="./mnt/data/images (1).png" target="_blank" rel="noreferrer">
+    <img src="./mnt/data/images (1).png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="./mnt/data/images.png" target="_blank" rel="noreferrer">
+    <img src="./mnt/data/images.png" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="./mnt/data/image.png" target="_blank" rel="noreferrer">
+    <img src="./mnt/data/image.png" alt="Canva" width="40" height="40"/>
+  </a>
 </div>
 
- <!-- CURRENTLY LEARNING -->
-
+<!-- SEPARADOR -->
 <img alt="Linha RGB" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 # Sprints
