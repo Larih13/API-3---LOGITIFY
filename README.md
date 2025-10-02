@@ -5,7 +5,7 @@
 
 # Índice
 
-* [Projeto](#projeto-template)
+* [Projeto (API)](#Projeto-(API))
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Ferramentas e Tecnologias Utilizadas](#Ferramentas-e-Tecnologias-Utilizadas)
