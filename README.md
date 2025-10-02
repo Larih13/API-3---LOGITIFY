@@ -134,6 +134,23 @@ Sprint | Previsão | Status| Histórico|
 
 </details>
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+# Alocação de Tarefas, com base no DoR.
+
+- Divisão das tarefas:
+Duplas - cada sprint o BI passará para uma dupla que fará o que foi designado para a sprint. 
+
+* 1 sprint: Gabriel e Larissa; 
+* 2 sprint: Bruno e Andreza;
+* 3 sprint: Paulo.
+
+- Divisão das tarefas "secundárias":
+* jira - Gabriel
+* Github - Larissa
+* Relatório - Bruno e Andreza
+* Dashboard - Paulo
+
 * [Volte ao topo](#GRUPO-LOGISTIFY---API---3º-SEMESTRE)
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
