@@ -33,9 +33,7 @@
 
 Desenvolver um dashboard interativo em Power BI para análise integrada da segurança viária no Brasil, utilizando bases oficiais como PRF, RENAINF e DATASUS. O projeto visa consolidar informações sobre frota, população, sinistros e mortalidade, permitindo visualizações dinâmicas, rankings de municípios e indicadores de risco. O objetivo é apoiar a tomada de decisões em políticas públicas e contribuir para a conscientização e prevenção de acidentes de trânsito.
 
-# Tecnologias Utilizadas
-
-## 🚀 Ferramentas & Tecnologias
+# 🚀Ferramentas & Tecnologias Utilizadas
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -43,9 +41,8 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
