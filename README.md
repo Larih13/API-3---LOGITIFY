@@ -12,10 +12,10 @@
 * [Sprints](#Sprints)
 * [Cronograma](#Cronograma)
 * [Backlog](#Backlog)
-* [Sprint 1](##Sprint-1)
-* [Sprint 2](##Sprint-2)
-* [Sprint 3](##Sprint-3)
-* [Feira de soluções](##Feira-de-soluções)
+* [Sprint 1.](##Sprint-1.)
+* [Sprint 2.](##Sprint-2.)
+* [Sprint 3.](##Sprint-3.)
+* [Feira de soluções.](##Feira-de-soluções.)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
@@ -67,7 +67,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## Backlog 
 
-- Sprint 1.
+- Sprint 1
   
 - [x] visualização abrangente e interativa dos dados da frota a nível nacional;
 - [x] visualização nacional clara e completa dos dados de população;
@@ -75,13 +75,13 @@ Sprint | Previsão | Status| Histórico|
 - [x] indicadores de mortalidade por 100 mil habitantes;
 - [x] indicadores de sinistros por 10 mil veículos;
 
-- Sprint 2.
+- Sprint 2
   
 - [ ] integrar dados de sinistros da PRF em gráficos e tabelas;
 - [ ] mapas e gráficos de tendência por estado e município;
 - [ ] indicadores de taxa de motorização;
       
-- Sprint 3.
+- Sprint 3
    
 - [ ] filtros interativos no dashboard por tipo de veículo, região, ano e gravidade do acidente;
 - [ ] dashboard em Power BI com design padronizado, limpo, responsivo e interativo;
@@ -90,19 +90,19 @@ Sprint | Previsão | Status| Histórico|
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Sprint 1
+## Sprint 1.
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Sprint 2 
+## Sprint 2.
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Sprint 3  
+## Sprint 3.
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Feira de soluções
+## Feira de soluções.
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
