@@ -17,6 +17,7 @@
 * [Sprint 3](#Sprint-3)
 * [Feira de soluções](#Feira-de-soluções)
 * [Competências desenvolvidas](#competências-desenvolvidas)
+* [Alocação de Tarefas com base no DoR](#Alocação-de-Tarefas-com-base-no-DoR)
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
@@ -142,7 +143,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-# Alocação de Tarefas, com base no DoR.
+# Alocação de Tarefas com base no DoR
 
 ### Divisão das tarefas:
 Duplas - cada sprint o BI passará para uma dupla que fará o que foi designado para a sprint. 
