@@ -8,14 +8,14 @@
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+* [🚀Ferramentas & Tecnologias Utilizadas](#-🚀Ferramentas-&-Tecnologias-Utilizadas)
 * [Sprints](#Sprints)
-* [Cronograma](##Cronograma)
-* [Backlog do produto](#Backlog-do-produto)
-* [Sprint 1](#Sprint-1)
-* [Sprint 2](#Sprint-2)
-* [Sprint 3](#Sprint-3)
-* [Feira de soluções](#Feira-de-soluções)
+* [Cronograma](#Cronograma)
+* [Backlog do produto](##Backlog-do-produto)
+* [Sprint 1](##Sprint-1)
+* [Sprint 2](##Sprint-2)
+* [Sprint 3](##Sprint-3)
+* [Feira de soluções](##Feira-de-soluções)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
@@ -63,25 +63,25 @@ Sprint | Previsão | Status| Histórico|
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Cronograma
+# Cronograma
 
-# Backlog do produto
-
-![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
-# Sprint 1
+## Backlog do produto
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-# Sprint 2 
+## Sprint 1
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-# Sprint 3  
+## Sprint 2 
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-# Feira de soluções
+## Sprint 3  
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+## Feira de soluções
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
