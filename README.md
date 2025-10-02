@@ -41,7 +41,7 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-# 🚀Ferramentas & Tecnologias Utilizadas
+# Ferramentas & Tecnologias Utilizadas
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
