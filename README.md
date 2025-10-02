@@ -138,14 +138,15 @@ Sprint | Previsão | Status| Histórico|
 
 # Alocação de Tarefas, com base no DoR.
 
-- Divisão das tarefas:
+-Divisão das tarefas:-
 Duplas - cada sprint o BI passará para uma dupla que fará o que foi designado para a sprint. 
 
 * 1 sprint: Gabriel e Larissa; 
 * 2 sprint: Bruno e Andreza;
 * 3 sprint: Paulo.
 
-- Divisão das tarefas "secundárias":
+ -Divisão das tarefas "secundárias":-
+ 
 * jira - Gabriel
 * Github - Larissa
 * Relatório - Bruno e Andreza
