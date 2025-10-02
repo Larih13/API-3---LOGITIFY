@@ -1,4 +1,4 @@
- ![451538832-e6456579-8647-47c2-97bf-148c61815ad2](https://github.com/user-attachments/assets/89dbe04e-27db-4e0c-886a-2115b899df34)
+ ![Imagem do WhatsApp de 2025-09-29 à(s) 17 22 15_7f101fc3](https://github.com/user-attachments/assets/ac8e7dc4-3e5c-481f-b9e5-d2669b35b72a)
 
 
 # GRUPO LOGISTIFY - API - 3º SEMESTRE
