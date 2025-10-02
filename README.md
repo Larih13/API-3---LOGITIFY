@@ -152,6 +152,8 @@ Duplas - cada sprint o BI passará para uma dupla que fará o que foi designado 
 * Relatório - Bruno e Andreza
 * Dashboard - Paulo
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 * [Volte ao topo](#GRUPO-LOGISTIFY---API---3º-SEMESTRE)
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
