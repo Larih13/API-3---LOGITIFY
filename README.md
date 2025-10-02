@@ -18,7 +18,11 @@
 * [Feira de soluções](#Feira-de-soluções)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 # Projeto (API) 
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -34,6 +38,8 @@
 # Objetivo do Projeto
 
 Desenvolver um dashboard interativo em Power BI para análise integrada da segurança viária no Brasil, utilizando bases oficiais como PRF, RENAINF e DATASUS. O projeto visa consolidar informações sobre frota, população, sinistros e mortalidade, permitindo visualizações dinâmicas, rankings de municípios e indicadores de risco. O objetivo é apoiar a tomada de decisões em políticas públicas e contribuir para a conscientização e prevenção de acidentes de trânsito.
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # 🚀Ferramentas & Tecnologias Utilizadas
 
@@ -55,17 +61,29 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 03| 17/11/2025 | a fazer|[Ver Relatório](https://www.canva.com/design/DAG0CqfUwQI/SsJcoTt5QNtr33tHZ1Iyxw/edit?utm_content=DAG0CqfUwQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 |Feira de Soluções| 04/12/2025 | a fazer || 
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 ## Cronograma
 
 # Backlog do produto
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 # Sprint 1
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # Sprint 2 
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 # Sprint 3  
 
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 # Feira de soluções
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # Competências desenvolvidas
 
@@ -100,3 +118,5 @@ Sprint | Previsão | Status| Histórico|
 </details>
 
 * [Volte ao topo](#GRUPO-LOGISTIFY---API---3º-SEMESTRE)
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
