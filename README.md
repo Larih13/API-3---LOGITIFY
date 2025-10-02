@@ -8,7 +8,7 @@
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [🚀Ferramentas & Tecnologias Utilizadas](#-🚀Ferramentas-&-Tecnologias-Utilizadas)
+* [🚀Ferramentas & Tecnologias Utilizadas](#-🚀-Ferramentas-&-Tecnologias-Utilizadas)
 * [Sprints](#Sprints)
 * [Cronograma](#Cronograma)
 * [Backlog do produto](##Backlog-do-produto)
