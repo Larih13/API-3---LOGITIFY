@@ -67,19 +67,19 @@ Sprint | Previsão | Status| Histórico|
 
 ## Backlog 
 
-### Sprint 1. 
+- Sprint 1. 
 - [x] visualização abrangente e interativa dos dados da frota a nível nacional;
 - [x] visualização nacional clara e completa dos dados de população;
 - [x] visualização nacional consolidada dos dados de mortalidade provenientes do DATASUS;
 - [x] indicadores de mortalidade por 100 mil habitantes;
 - [x] indicadores de sinistros por 10 mil veículos;
 
-### Sprint 2. 
+- Sprint 2. 
 - [ ] integrar dados de sinistros da PRF em gráficos e tabelas;
 - [ ] mapas e gráficos de tendência por estado e município;
 - [ ] indicadores de taxa de motorização;
       
-### Sprint 3 . 
+- Sprint 3 . 
 - [ ] filtros interativos no dashboard por tipo de veículo, região, ano e gravidade do acidente;
 - [ ] dashboard em Power BI com design padronizado, limpo, responsivo e interativo;
 - [ ] filtros de sazonalidade dos acidentes, óbitos e incidentes;
