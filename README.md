@@ -37,11 +37,11 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 ## 🚀 Ferramentas & Tecnologias
 
-![Power BI](![power_bi_premium_per_user_261249398_1_beedecd31c08fe79423bcf67b3039521](https://github.com/user-attachments/assets/8ad24d99-fb75-41fc-ba13-552fa82c0473) | width=10) 
-![Jira](![plt-jira-01-hero-01 png](https://github.com/user-attachments/assets/30da8326-2988-4e12-ac18-d777b66cca30) | width=40) 
-![GitHub](<img width="302" height="167" alt="images (1)" src="https://github.com/user-attachments/assets/78a7f253-a91d-4b59-af64-9c576764d6a7" /> | width=40) 
-![Python](<img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/063ac1e4-4efb-4391-be45-f8dd4483fb4e" /> | width=40) 
-![Canva](<img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/06a4a0d2-bce3-4bfc-a693-e6de6241f0a3" /> | width=40)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
