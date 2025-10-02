@@ -67,6 +67,35 @@ Sprint | Previsão | Status| Histórico|
 
 ## Backlog do produto
 
+### Sprint 1. 
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+
+### Sprint 2. 
+- [ ] Documento passo a passo;
+- [ ] Vídeo passo a passo;
+- [ ] Treinamento com os professores;
+- [ ] Treinamento com os alunos;
+- [ ] Monitoramento e ajustes.
+      
+### Sprint 3 . 
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Escolha cores e fontes;
+- [x] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ## Sprint 1
