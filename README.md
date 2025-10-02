@@ -42,7 +42,13 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |![power_bi_premium_per_user_261249398_1_beedecd31c08fe79423bcf67b3039521](https://github.com/user-attachments/assets/1444920d-80e2-4be4-9a42-3deaf918b8dc) |  <img width="302" height="167" alt="images (1)" src="https://github.com/user-attachments/assets/6bc3defb-a53b-4d25-9bb4-4deffa0193cf" />  | ![plt-jira-01-hero-01 png](https://github.com/user-attachments/assets/fd366e9a-2d6b-4772-8be1-cee640b0bc5b) | <img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/7737c000-b85a-4fe4-856f-3e0c9f55bc87" /> | <img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/83484064-19b5-4f46-a119-ac769411e98c" /> |
 
+<div align="center">
 
+  <b>`プログラマ`</b>
+
+  <br>
+      
+<!-- STATS SECTION -->
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
