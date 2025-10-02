@@ -12,7 +12,7 @@
 * [Sprints](#Sprints)
 * [Cronograma](#Cronograma)
 * [Backlog](##Backlog)
-* [Sprint 1]##Sprint-1)
+* [Sprint 1](###Sprint-1)
 * [Sprint 2](###Sprint-2)
 * [Sprint 3](###Sprint-3)
 * [Feira de soluções](##Feira-de-soluções)
