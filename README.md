@@ -35,20 +35,18 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 # Tecnologias Utilizadas
 
-<!-- TYPING EFFECT -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="Vscode" width="40" height="40"/> </a>
+  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" alt="Vscode studio 2022" width="40" height="40"/> </a>
+  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="Github" width="40" height="40"/> </a>
+  <a href="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/> </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04a1a3b2&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias Utilizadas;I'm+26+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development;at+University+nove+de+julho;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ <!-- CURRENTLY LEARNING -->
 
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|![power_bi_premium_per_user_261249398_1_beedecd31c08fe79423bcf67b3039521](https://github.com/user-attachments/assets/1444920d-80e2-4be4-9a42-3deaf918b8dc) |  <img width="302" height="167" alt="images (1)" src="https://github.com/user-attachments/assets/6bc3defb-a53b-4d25-9bb4-4deffa0193cf" />  | ![plt-jira-01-hero-01 png](https://github.com/user-attachments/assets/fd366e9a-2d6b-4772-8be1-cee640b0bc5b) | <img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/7737c000-b85a-4fe4-856f-3e0c9f55bc87" /> | <img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/83484064-19b5-4f46-a119-ac769411e98c" /> |
+<img alt="Linha RGB" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<div align="center">
-
-  <b>`プログラマ`</b>
-
-  <br>
-      
-<!-- STATS SECTION -->
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
