@@ -11,7 +11,7 @@
 * [Ferramentas e Tecnologias Utilizadas](#Ferramentas-e-Tecnologias-Utilizadas)
 * [Sprints](#Sprints)
 * [Cronograma](#Cronograma)
-* [Backlog do produto](##Backlog-do-produto)
+* [Backlog](##Backlog)
 * [Sprint 1](##Sprint-1)
 * [Sprint 2](##Sprint-2)
 * [Sprint 3](##Sprint-3)
@@ -65,36 +65,25 @@ Sprint | Previsão | Status| Histórico|
 
 # Cronograma
 
-## Backlog do produto
+## Backlog 
 
 ### Sprint 1. 
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] visualização abrangente e interativa dos dados da frota a nível nacional;
+- [x] visualização nacional clara e completa dos dados de população;
+- [x] visualização nacional consolidada dos dados de mortalidade provenientes do DATASUS;
+- [x] indicadores de mortalidade por 100 mil habitantes;
+- [x] indicadores de sinistros por 10 mil veículos;
 
 ### Sprint 2. 
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] integrar dados de sinistros da PRF em gráficos e tabelas;
+- [ ] mapas e gráficos de tendência por estado e município;
+- [ ] indicadores de taxa de motorização;
       
 ### Sprint 3 . 
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] filtros interativos no dashboard por tipo de veículo, região, ano e gravidade do acidente;
+- [ ] dashboard em Power BI com design padronizado, limpo, responsivo e interativo;
+- [ ] filtros de sazonalidade dos acidentes, óbitos e incidentes;
+- [ ] botões e menus interativos no dashboard que facilitem a navegação entre diferentes visões;
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
