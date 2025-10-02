@@ -12,10 +12,10 @@
 * [Sprints](#Sprints)
 * [Cronograma](#Cronograma)
 * [Backlog](#Backlog)
-* [Sprint 1.](##Sprint-1.)
-* [Sprint 2.](##Sprint-2.)
-* [Sprint 3.](##Sprint-3.)
-* [Feira de soluções.](##Feira-de-soluções.)
+* [Sprint 1](#Sprint-1)
+* [Sprint 2](#Sprint-2)
+* [Sprint 3](#Sprint-3)
+* [Feira de soluções](#Feira-de-soluções)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
@@ -90,19 +90,19 @@ Sprint | Previsão | Status| Histórico|
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Sprint 1.
+# Sprint 1
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Sprint 2.
+# Sprint 2
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Sprint 3.
+# Sprint 3
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## Feira de soluções.
+# Feira de soluções
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
