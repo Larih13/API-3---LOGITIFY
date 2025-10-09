@@ -53,41 +53,26 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
+# Product Backlog
+
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       | Como tomador de decisões de politicas públicas, quero uma visualização interativa da frota nacional, apresentando quantidade de veículos por tipo e ano, com filtros por estado e comparativos de evolução histórica para identificar tendências no crescimento da frota.                                                    | 4          | 1      |
+| 2    | Alta       | Como tomador de decisões de politicas públicas, quero visualizar dados da população nacional segmentados por estado, ano, faixa etária e gênero com possibilidade de cruzar informações com frota e acidentes, para avaliar riscos e impactos regionais.                                                                    | 3         | 1      |
+| 3    | Alta       | Como tomador de decisões de politicas públicas, quero uma visualização consolidada da mortalidade do DATASUS, apresentando evolução temporal com comparativos por gênero, idade e localização para compreender os fatores associados às mortes no trânsito.                                               | 1          | 1      |
+| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+
+![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 # Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | concluído  | [MVP](MVP/https://github.com/Larih13/Sprints.git)  |
-| 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 02                | 24/10/2025 | a fazer  | [MVP](MVP/https://github.com/Larih13/Sprints.git)  |
+| 03                | 14/11/2025 | a fazer  | [MVP](MVP/https://github.com/Larih13/Sprints.git)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
-
-![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
-# Cronograma
-
-## Backlog 
-
-- Sprint 1
-  
-- [x] visualização abrangente e interativa dos dados da frota a nível nacional;
-- [x] visualização nacional clara e completa dos dados de população;
-- [x] visualização nacional consolidada dos dados de mortalidade provenientes do DATASUS;
-- [x] indicadores de mortalidade por 100 mil habitantes;
-- [x] indicadores de sinistros por 10 mil veículos;
-
-- Sprint 2
-  
-- [ ] integrar dados de sinistros da PRF em gráficos e tabelas;
-- [ ] mapas e gráficos de tendência por estado e município;
-- [ ] indicadores de taxa de motorização;
-      
-- Sprint 3
-   
-- [ ] filtros interativos no dashboard por tipo de veículo, região, ano e gravidade do acidente;
-- [ ] dashboard em Power BI com design padronizado, limpo, responsivo e interativo;
-- [ ] filtros de sazonalidade dos acidentes, óbitos e incidentes;
-- [ ] botões e menus interativos no dashboard que facilitem a navegação entre diferentes visões;
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
