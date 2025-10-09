@@ -55,12 +55,12 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 # Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Sprint 01| 03/10/2025 | em progresso| [Ver Relatório](https://www.canva.com/design/DAG0CTb4Z2o/fRSZLn9WMa5JNHOOm-CzrA/edit?utm_content=DAG0CTb4Z2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
-|Sprint 02|  24/10/2025| a fazer |[Ver Relatório](https://www.canva.com/design/DAG0Cl4QdUE/DyUmjvypC6DI_T42OQEY9Q/edit?utm_content=DAG0Cl4QdUE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
-|Sprint 03| 17/11/2025 | a fazer|[Ver Relatório](https://www.canva.com/design/DAG0CqfUwQI/SsJcoTt5QNtr33tHZ1Iyxw/edit?utm_content=DAG0CqfUwQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
-|Feira de Soluções| 04/12/2025 | a fazer || 
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 03/10/2025 | concluído  | [MVP](MVP/sp1.md)  |
+| 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
