@@ -89,6 +89,14 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 # Sprint 1
 
+## Tela 1
+
+<img width="1280" height="720" alt="Design sem nome" src="https://github.com/user-attachments/assets/1e263b56-ea1a-4be0-be4d-d87c7bf7d817" />
+
+## Tela 2
+
+<img width="1280" height="720" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/38cca6ca-6cac-4ef9-b958-adf907c7cb43" />
+
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # Sprint 2
