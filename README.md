@@ -138,7 +138,7 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 # Alocação de Tarefas com base no DoR
 
 ### Divisão das tarefas:
-Duplas - cada sprint o BI passará para uma dupla que fará o que foi designado para a sprint. 
+Duplas - cada sprint o BI passará para uma dupla que fará a apresentação da sprint. 
 
 * 1 sprint: Gabriel e Larissa; 
 * 2 sprint: Bruno e Andreza;
