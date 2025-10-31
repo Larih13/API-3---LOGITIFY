@@ -33,7 +33,6 @@
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |  Bruno        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-della-corte-4a792233a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bruno2811)              |
 | Scrum Master  |Larissa |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-alves-422a10213) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Larih13)     |
-| Team Member   | Andreza              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andreza-maria-4a6625277) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ANDREZA154)        |
 |  Team Member  | Gabriel                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-3b5aba1ba) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-3b5aba1ba)   |
 |  Team Member  | Paulo      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-b21680306) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Paulo0805)          |
 
@@ -155,14 +154,14 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 Duplas - cada sprint o BI passará para uma dupla que fará a apresentação da sprint. 
 
 * 1 sprint: Gabriel e Larissa; 
-* 2 sprint: Bruno e Andreza;
+* 2 sprint: Brun;
 * 3 sprint: Paulo.
 
 ### Divisão das tarefas "secundárias":
  
 * jira - Gabriel;
 * Github - Larissa;
-* Relatório - Bruno e Andreza;
+* Relatório - Bruno;
 * Dashboard - Paulo.
 
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
