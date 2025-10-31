@@ -78,7 +78,7 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | concluído | [MVP](https://github.com/Larih13/Sprints/blob/Sprint01/Sprint01.md)  |
-| 02                | 30/10/2025 | a fazer  | [MVP](https://github.com/Larih13/Sprints/blob/Sprint01/Sprint02.md)  |
+| 02                | 30/10/2025 | concluído  | [MVP](https://github.com/Larih13/Sprints/blob/Sprint01/Sprint02.md)  |
 | 03                | 14/11/2025 | a fazer  | [MVP](#) |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#) |
 
