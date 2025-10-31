@@ -154,7 +154,7 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 Duplas - cada sprint o BI passará para uma dupla que fará a apresentação da sprint. 
 
 * 1 sprint: Gabriel e Larissa; 
-* 2 sprint: Brun;
+* 2 sprint: Bruno;
 * 3 sprint: Paulo.
 
 ### Divisão das tarefas "secundárias":
