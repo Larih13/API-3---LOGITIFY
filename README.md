@@ -111,6 +111,17 @@ Desenvolver um dashboard interativo em Power BI para análise integrada da segur
 
 # Sprint 3
 
+## Tela 1
+<img width="1419" height="797" alt="Captura de tela 2025-11-14 202457" src="https://github.com/user-attachments/assets/e1d200cd-2064-4c8f-8c95-4bec69e35240" />
+
+## Tela 2
+<img width="1417" height="797" alt="Captura de tela 2025-11-14 202547" src="https://github.com/user-attachments/assets/1fddd188-b8df-4239-8214-923bfb906bf6" />
+
+
+## Tela 3
+<img width="1419" height="797" alt="Captura de tela 2025-11-14 202610" src="https://github.com/user-attachments/assets/f89d1d4a-87c8-4871-b472-0ca545e3e33c" />
+
+
 ![Linha RGB](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 # Feira de soluções
